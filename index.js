@@ -84,10 +84,10 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
     prompt(questions).then(answers => {
-        const responses = generateMarkdown(answers);
+        const response = generateMarkdown(answers);
         console.log('answers');
 
-        writeToFile("README.md", responses);
+        writeToFile("README.md", response);
     })
 }
 
