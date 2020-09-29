@@ -39,7 +39,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Usage',
+        name: 'usage',
         message: "If applicable, please provide instructions for using your project."
     },
     {

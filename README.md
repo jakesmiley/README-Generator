@@ -1,6 +1,6 @@
 
 
-  # Jake's Project
+  # README Generator Project
 
 
   ## Table of Contents
@@ -9,14 +9,14 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [tests](#tests)
   * [Contact](#contact)
   
   ## Description
-  Jake's crappy description of a project.
+  Project Description
 
   ## Installation
-  This is not actually a list of step.s
+  Steps to install project
 
   ## Usage
   undefined
@@ -28,10 +28,10 @@
   
 
   ## Contributing
-  Please don't break things.
+  Please don't break it.
 
   ## Tests
-  Used Node.js to test.
+  Used Node.js to test making some READMEs.
 
   ## Contact
     GitHub: [jakesmiley](https://github.com/jakesmiley)
