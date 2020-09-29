@@ -1,4 +1,4 @@
-// function to generate markdown for README
+// function to generate markdown for README. Made it to basically layout everything and just take the needed input and stick it in.
 function generateMarkdown(data) {
   return `
 

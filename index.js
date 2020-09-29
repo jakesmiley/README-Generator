@@ -4,7 +4,7 @@ const fs = require('fs');
 const generateMarkdown = require("./Develop/utils/generateMarkdown");
 const { prompt } = inquirer;
 
-// array of questions for user
+// array of questions for user to generate the readme
 const questions = [
     {
         type: 'input',
