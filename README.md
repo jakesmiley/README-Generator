@@ -19,7 +19,7 @@
   Steps to install project
 
   ## Usage
-  undefined
+  Generate a README that is quick, easy, and professional.
 
   ## Licensing
   MIT License
